@@ -1,0 +1,12 @@
+.myButtonComponent{
+    border: none;
+    background-color: #00f;
+    font-size: 2rem;
+    color: #fff;
+    border-radius: 5px;
+    width: fit-content;
+    line-height: 2rem;
+    padding: 0.6rem;
+    text-align: center;
+    margin: 1rem;
+}
